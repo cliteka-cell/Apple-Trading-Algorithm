@@ -10,7 +10,7 @@ This is a project I built to track Apple (AAPL) stock trends and save my trade i
 
 ### How to use the data:
 Since everything is in SQL, you can run simple commands to find specific trades. For example:
-"Find all buy signals for Apple where the price was under $250."
+"Find all buy signals for Apple where the price was above $200."
 
 ### Tools I used:
 * Python (Pandas and Matplotlib)
