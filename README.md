@@ -1,2 +1,1 @@
-# Data-Science-Projects
-Portfolio of amateur projects
+# Apple-Trading-Algorithm
